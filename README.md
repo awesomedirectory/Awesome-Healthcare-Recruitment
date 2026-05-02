@@ -53,6 +53,14 @@ This list covers the entire spectrum of medical hiring, from physician sourcing 
 
 ---
 
+## Related Awesome Lists
+
+- [Awesome Founder Stack](https://awesomedirectory.github.io/awesome-founder-stack/) - Tools, services, and resources for startup founders.
+- [Awesome Genograms](https://awesomedirectory.github.io/awesome-genograms/) - Genogram builders, family tree libraries, and genealogy software.
+- [Awesome VC Tech Stack](https://awesomedirectory.github.io/Awesome-VC-Tech-Stack/) - Software stack used by venture capital firms.
+- [Awesome Award Travel](https://awesomedirectory.github.io/awesome-award-travel/) - Award flight tools, points trackers, and credit card resources.
+---
+
 ## Contributing
 
 Contributions are welcome! If you know of a tool that helps healthcare recruiters, please add it.
