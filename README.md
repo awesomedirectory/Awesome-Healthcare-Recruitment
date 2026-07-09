@@ -29,6 +29,7 @@ This list covers the entire spectrum of medical hiring, from physician sourcing 
 
 * **[NurseSend.com](https://nursesend.com)** - Intelligent messaging and engagement tools for recruiting travel nurses and RNs.
 * **[HealthTal — Nurse Email List](https://healthtal.com/nurses-email-list/)** - Verified RN email addresses and direct-dial phone numbers for nurse recruiting outreach.
+* [Nurse Workforce by State, 2026](https://healthtal.com/blog/nurse-workforce-by-state-2026/) - Data study mapping 950,050 nursing records across all 50 states.
 * [Vivian Health](https://www.vivian.com) - A marketplace for healthcare hiring, specifically strong in travel nursing.
 * [Trusted Health](https://www.trustedhealth.com) - A platform connecting nurses directly with travel and flexible job opportunities.
 * [AMN Healthcare](https://www.amnhealthcare.com) - One of the largest healthcare staffing companies in the United States.
