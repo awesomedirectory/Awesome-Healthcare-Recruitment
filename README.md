@@ -19,6 +19,7 @@ This list covers the entire spectrum of medical hiring, from physician sourcing 
 *Tools dedicated to recruiting doctors, surgeons, and locum tenens providers.*
 
 * **[RecruitPhysician.com](https://recruitphysician.com)** - A specialized sourcing platform for permanent and locum tenens physician placement.
+* **[HealthTal — Physician Contact Database](https://healthtal.com/directory/physicians/)** - Verified direct emails and phone numbers for physicians across every specialty and all 50 states.
 * [Doximity Talent Finder](https://talent.doximity.com) - The leading professional medical network for physician recruitment.
 * [PracticeMatch](https://www.practicematch.com) - Physician database and career center for in-house recruiters.
 * [NEJM CareerCenter](https://www.nejmcareercenter.org) - Recruitment service provided by the New England Journal of Medicine.
@@ -27,6 +28,7 @@ This list covers the entire spectrum of medical hiring, from physician sourcing 
 *Platforms for per diem, travel, and permanent nursing placements.*
 
 * **[NurseSend.com](https://nursesend.com)** - Intelligent messaging and engagement tools for recruiting travel nurses and RNs.
+* **[HealthTal — Nurse Email List](https://healthtal.com/nurses-email-list/)** - Verified RN email addresses and direct-dial phone numbers for nurse recruiting outreach.
 * [Vivian Health](https://www.vivian.com) - A marketplace for healthcare hiring, specifically strong in travel nursing.
 * [Trusted Health](https://www.trustedhealth.com) - A platform connecting nurses directly with travel and flexible job opportunities.
 * [AMN Healthcare](https://www.amnhealthcare.com) - One of the largest healthcare staffing companies in the United States.
@@ -34,7 +36,7 @@ This list covers the entire spectrum of medical hiring, from physician sourcing 
 ## Healthcare Talent Platforms
 *Broader ecosystems for allied health and general medical staff management.*
 
-* **[HealthTal.com](https://healthtal.com)** - Comprehensive healthcare talent solutions connecting providers with medical facilities.
+* **[HealthTal.com](https://healthtal.com)** - A database of 1.77M+ verified healthcare professional contacts with direct email, phone, and NPI data; browse the full [healthcare provider directory](https://healthtal.com/directory/).
 * [Relias](https://www.relias.com) - Workforce management and training solutions for healthcare organizations.
 * [SkillGigs](https://skillgigs.com) - An AI-driven talent marketplace for healthcare and technology professionals.
 * [Indeed Health](https://www.indeed.com/hire/healthcare) - General job board with specific tools for the healthcare sector.
